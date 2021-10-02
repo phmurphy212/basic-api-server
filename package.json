@@ -1,0 +1,19 @@
+{
+  "name": "basic-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phmurphy212/basic-api-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phmurphy212/basic-api-server/issues"
+  },
+  "homepage": "https://github.com/phmurphy212/basic-api-server#readme"
+}
